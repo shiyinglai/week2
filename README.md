@@ -1,13 +1,3 @@
----
-output:
-  pdf_document:
-    highlight: tango
-    number_sections: false
-    latex_engine: xelatex
-  linkcolor: red
-  urlcolor: red
----
-
 Modern Data Structures
 ======================
 
