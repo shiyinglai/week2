@@ -216,12 +216,12 @@ Lecture slides will be made available on the course website. However, I believe 
 
 ## Lecture Topics
 
-#### [Week 1: (Sep 14) Introduction](Lectures/Week01/week01_lecture.md)
+#### Week 1: (Sep 14) Introduction [\[Link\]](Lectures/Week01/week01_lecture.md) [\[Recording\]](https://columbiauniversity.zoom.us/rec/share/TbD2fQl83PAlvIGTkczkT-6NykAuadW8AakLznM09a9nSmIqvCNfOWiyajwFVHbZ.6t7aRhW3dzYzoUQa?startTime=1600127461000)
 
 -   **On your own:**
     - Sign up for a GitHub account. If you like free stuff, they have a nice [student pack](https://education.github.com/pack) as well.
     - Install [GitHub Desktop](GitHub Desktop) or [Gitkraken](https://www.gitkraken.com/student-resources) (if you are confident in using command-line Git or have a different software preference, feel free to skip this step.)
-    - Claim your private Github repository connected with this class.
+    - Claim your private Github repository connected with this class. The repository should be named `LastName_FirstName` (e.g. `Brambor_Thomas`)
 -   **Reading:**:
     - McKinney, chp.2 _Python Language Basics, IPython, and Jupyter Notebooks_
 
