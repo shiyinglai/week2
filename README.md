@@ -10,15 +10,19 @@ QMSS G5072 - Columbia University
 
 Instructor: Thomas Brambor  
 [tb2729@columbia.edu](tb2729@columbia.edu)  
-Office Hours: [Zoom Link OH](https://columbiauniversity.zoom.us/meeting/tJAqcuCtpzIqEtYwhjI_BOfS-OQsEeAOHA8K/ics?icsToken=98tyKuCsqT4jH92csBGFRowIB4_4Xe_xmFhfj7dkixfvKh9xTQXFe81zIZd6Mff4)
+Office Hours: Mon 5.30-6.30pm [Zoom Link OH](https://columbiauniversity.zoom.us/meeting/tJAqcuCtpzIqEtYwhjI_BOfS-OQsEeAOHA8K/ics?icsToken=98tyKuCsqT4jH92csBGFRowIB4_4Xe_xmFhfj7dkixfvKh9xTQXFe81zIZd6Mff4)
 
 TA1: Xiaoyu Dai
 [xd2236@columbia.edu](xd2236@columbia.edu)  
-Office Hours: TBA
+Office Hours: Th 2-4pm (odd weeks)  
+Section: Th 3-4pm (even weeks)
 
 TA2: Wenjun Sun
 [wenjun.sun@columbia.edu](wenjun.sun@columbia.edu)  
-Office Hours: TBA
+Office Hours: Fr 2-4pm (even weeks)  
+Section: Fr 2-3pm (odd weeks)
+
+Please sign up for the TA's office hours and find the zoom links [here](https://docs.google.com/spreadsheets/d/1hfGfRc_lpRnNSALiOrvwwoUaFVdkvTJQQU5EIlYDKrM/edit?usp=sharing).
 
 ------------------------------------------------------------------------
 
