@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "mds"
 version = "0.1.0"
-description = "QNSS Modern Data Structures (Fall 2020)"
+description = "QMSS Modern Data Structures (Fall 2020)"
 authors = ["Thomas Brambor <Thomas.Brambor@columbia.edu>"]
 
 [tool.poetry.dependencies]
@@ -19,7 +19,6 @@ jupyter_contrib_nbextensions = "^0.5.1"
 jupyter-kite = "^1.0.0"
 requests = "^2.24.0"
 pandas-profiling = "^2.9.0"
-nbconvert = "^6.0.2"
 jupyterthemes = "^0.20.0"
 
 [tool.poetry.dev-dependencies]
