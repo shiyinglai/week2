@@ -216,7 +216,7 @@ Lecture slides will be made available on the course website. However, I believe 
 
 ## Lecture Topics
 
-#### Week 1: (Sep 14) Introduction [\[Link\]](Lectures/Week01/week01_lecture.md) [\[Recording\]](https://columbiauniversity.zoom.us/rec/share/TbD2fQl83PAlvIGTkczkT-6NykAuadW8AakLznM09a9nSmIqvCNfOWiyajwFVHbZ.6t7aRhW3dzYzoUQa?startTime=1600127461000)
+#### Week 1: (Sep 14) Introduction [\[Link\]](Lectures/Week01/week01_lecture.ipynb) [\[Recording\]](https://columbiauniversity.zoom.us/rec/share/TbD2fQl83PAlvIGTkczkT-6NykAuadW8AakLznM09a9nSmIqvCNfOWiyajwFVHbZ.6t7aRhW3dzYzoUQa?startTime=1600127461000)
 
 -   **On your own:**
     - Sign up for a GitHub account. If you like free stuff, they have a nice [student pack](https://education.github.com/pack) as well.
@@ -230,7 +230,7 @@ Lecture slides will be made available on the course website. However, I believe 
 
 ### Part 1 - Data Manipulation & Coding
 
-#### [Week 2: (Sep 21) Intro to Python and Virtual Environments](Lectures/Week02/week02_lecture.md)
+#### [Week 2: (Sep 21) Intro to Python and Virtual Environments](Lectures/Week02/week02_lecture.ipynb) [\[Recording\]](https://columbiauniversity.zoom.us/rec/share/FSqAh08_ehZMAl2X3WiFG6YwaYEKpsfDKephLxhdrZHxC1BKwKgk-zFApUUpnnk.Vuir7NDdheV4AqNX?startTime=1600731885000)
 
 -   **On your own:**
     - Install `pyenv` ([WIN](https://github.com/pyenv-win/pyenv-win) | [MacOSX](https://pythoneveryday.com/pyenv-macos)) and learn the basics about pyenv (e.g. via this [Intro to pyenv](https://realpython.com/intro-to-pyenv/))
@@ -251,7 +251,7 @@ Lecture slides will be made available on the course website. However, I believe 
 > **Homework 1**: [Using Jupyter Notebooks and Github](Exercises/hw01/hw01.md). Also see the [homework submission instructions](Exercises/homework_submission_instructions.md).
 
 
-#### [Week 3: (Sep 28) Data Wrangling with pandas](Lectures/Week03/week03_lecture.md)
+#### [Week 3: (Sep 28) Data Wrangling with pandas](Lectures/Week03/week03_lecture.ipynb)
 
 -   **Reading**:
     - McKinney, chapter 5 _Getting Started with pandas_, chapter 7 _Data Cleaning and Preparation_, chapter 10 _Data Aggregation and Group Operations_
@@ -267,7 +267,7 @@ Lecture slides will be made available on the course website. However, I believe 
 > **Homework 2**: [Data Wrangling with pandas](Exercises/hw02/hw02.md). Also see the [homework submission instructions](Exercises/homework_submission_instructions.md).
 
 
-#### [Week 4: (Oct 5) Functions I: the basic logic and simple steps](Lectures/Week04/week04_lecture.md)
+#### [Week 4: (Oct 5) Functions I: the basic logic and simple steps](Lectures/Week04/week04_lecture.ipynb)
 
 -   **Reading**:
     - Sweigart, _Automate the boring stuff with Python_, chapter 3, [Functions]( Automate the boring stuff with Python)
@@ -279,7 +279,7 @@ Lecture slides will be made available on the course website. However, I believe 
 > **Homework 3**: [`for` loops and functions](Exercises/hw03/hw03.md). Also see the [homework submission instructions](Exercises/homework_submission_instructions.md).
 
 
-#### [Week 5: (Oct 12) Functions II: nested operations and complex sets of commands](Lectures/Week05/week05_lecture.md)
+#### [Week 5: (Oct 12) Functions II: nested operations and complex sets of commands](Lectures/Week05/week05_lecture.)
 
 -  **Reading**: TBD
 -  **Datacamp**:
@@ -295,7 +295,7 @@ Lecture slides will be made available on the course website. However, I believe 
 > **Homework 4**: [Functions II](Exercises/hw04/hw04.md). Also see the [homework submission instructions](Exercises/homework_submission_instructions.md).
 
 
-#### [Week 6: (Oct 19) Functions IV: Working with strings](Lectures/Week06/week06_lecture.md)
+#### [Week 6: (Oct 19) Functions IV: Working with strings](Lectures/Week06/week06_lecture.ipynb)
 
 - **Reading**: 
     * McKinney, _7.3 String Manipulation_ (p.211-218)
@@ -312,7 +312,7 @@ Lecture slides will be made available on the course website. However, I believe 
 > **Homework 5**: [Working with Strings](Exercises/hw05/hw05.md). Also see the [homework submission instructions](Exercises/homework_submission_instructions.md).
 
 
-#### [Week 7: (Oct 26) Testing](Lectures/Week07/week07_lecture.md)
+#### [Week 7: (Oct 26) Testing](Lectures/Week07/week07_lecture.ipynb)
 
 - **Reading**: 
     * chapter 5 _Testing_ from Hillard, Dane. (2020). "Practices of the Python Pro." Manning Publications (1st edition). Harvard. ([PDF](http://webéducation.com/wp-content/uploads/2020/01/Dane-Hillard-Practices-of-the-Python-Pro-Manning-Publications-2020.pdf))
@@ -330,7 +330,7 @@ Lecture slides will be made available on the course website. However, I believe 
 Try to catch up with any material. Ask questions on the course forum  to clarify any issues. 
 
 
-#### [Week 8: (Nov 9) Creating your own Python Package](Lectures/Week08/week08_lecture.md)
+#### [Week 8: (Nov 9) Creating your own Python Package](Lectures/Week08/week08_lecture.ipynb)
  
 -   **Reading**: 
     * chapter 6 _Shipping Great Code_ from  Reitz, K., Schlusser, T. _The Hitchhiker's Guide to Python_ (167-171)
@@ -343,7 +343,7 @@ Try to catch up with any material. Ask questions on the course forum  to clarify
 
 ### Part 2 - Getting data in
 
-#### [Week 9: (Nov 16) APIs](Lectures/Week09/week09_lecture.md)
+#### [Week 9: (Nov 16) APIs](Lectures/Week09/week09_lecture.ipynb)
 
 -   **Reading**:
     * McKinney, _Interacting with Web APIs_ (p.187-188)
@@ -358,7 +358,7 @@ Try to catch up with any material. Ask questions on the course forum  to clarify
 > **Homework 8**: [Writing a simple API client](Exercises/hw08/hw08.md). Also see the [homework submission instructions](Exercises/homework_submission_instructions.md).
 
 
-#### [Week 10: (Nov 23) Web Scraping from HTML](Lectures/Week10/week10_lecture.md)
+#### [Week 10: (Nov 23) Web Scraping from HTML](Lectures/Week10/week10_lecture.ipynb)
 
 -   **Reading**:
     * Sweigart, chapter 12 _Web Scraping_
@@ -368,7 +368,7 @@ Try to catch up with any material. Ask questions on the course forum  to clarify
 > **Homework 9**: [Web Scraping from Wikipedia](Exercises/hw09/hw09.md). Also see the [homework submission instructions](Exercises/homework_submission_instructions.md).
 
 
-#### [Week 11: (Nov 30) SQL](Lectures/Week11/week11_lecture.md)
+#### [Week 11: (Nov 30) SQL](Lectures/Week11/week11_lecture.ipynb)
 
 - **Reading**:
     - There are lots of great SQL Tutorials to go further. Here are a few pointers:
@@ -390,7 +390,7 @@ Try to catch up with any material. Ask questions on the course forum  to clarify
 
 ### Part 3 - Cloud computing
 
-#### [Week 12: (Dec 7) Amazon Web Services and Parallelization](Lectures/Week12/week12_lecture.md)
+#### [Week 12: (Dec 7) Amazon Web Services and Parallelization](Lectures/Week12/week12_lecture.ipynb)
 
 -   **Reading**: TBD
 -   **Datacamp**:
@@ -404,7 +404,7 @@ Try to catch up with any material. Ask questions on the course forum  to clarify
         - [Create and Connect to a MySQL Database with Amazon RDS](https://aws.amazon.com/getting-started/tutorials/create-mysql-db)
 
 
-#### [Week 13: (Dec 14) Airflow and Spark](Lectures/Week13/week13_lecture.md)
+#### [Week 13: (Dec 14) Airflow and Spark](Lectures/Week13/week13_lecture.ipynb)
 
 -   **Reading**: TBD  
 -   **Datacamp**:
