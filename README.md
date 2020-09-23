@@ -3,6 +3,7 @@ Modern Data Structures
 QMSS G5072 - Columbia University
 --------------------------------
 My name is Shiying Lai, and now I am a first year graduate student at Columbia University.
+I am taking the Modern Data Structure Class.
 **Fall 2020**  
 **Lecture: Mondays 8.10 - 10pm (but see weekly schedule)**  
 **Location: [Zoom Link Lecture](https://columbiauniversity.zoom.us/meeting/tJUpd--oqD8vGte-Pa3LbGN0zm8DcsSm123N/ics?icsToken=98tyKuCpqjssGtKRtRmERowcBoigM_TwpilYjbdY0S_kUAxRRS2mLO8aFrFsI9WB)**
