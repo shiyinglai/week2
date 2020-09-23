@@ -1,6 +1,6 @@
 Modern Data Structures
 ======================
-
+My name is Shiying Lai and I get a bachelor degree in Economics at UC Davis.
 QMSS G5072 - Columbia University
 --------------------------------
 
